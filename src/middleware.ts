@@ -13,7 +13,7 @@ const redirects: RedirectProps[] = [
   },
   {
     from: "grasa.hu",
-    to: "https://github.com/RisDN",
+    to: "withloveforlove.hu",
   },
   {
     from: "anarchyv.hu",
