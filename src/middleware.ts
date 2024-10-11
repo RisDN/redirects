@@ -9,7 +9,7 @@ interface RedirectProps {
 const redirects: RedirectProps[] = [
   {
     from: "hazetomika.hu",
-    to: "https://www.instagram.com/paksaxx/",
+    to: "https://open.spotify.com/artist/6ReXV4uF5wOP9sVFsHi5oX",
   },
   {
     from: "grasa.hu",
