@@ -8,6 +8,10 @@ interface RedirectProps {
 
 const redirects: RedirectProps[] = [
   {
+    from: "discord.talprafiatalok.hu",
+    to: "https://discord.gg/YjBkzgCZtx",
+  },
+  {
     from: "hazetomika.hu",
     to: "https://open.spotify.com/artist/6ReXV4uF5wOP9sVFsHi5oX",
   },
