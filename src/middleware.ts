@@ -8,6 +8,10 @@ interface RedirectProps {
 
 const redirects: RedirectProps[] = [
   {
+    from: "elmecsata.hu",
+    to: "https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions"
+  },
+  {
     from: "discord.talprafiatalok.hu",
     to: "https://discord.gg/YjBkzgCZtx",
   },
