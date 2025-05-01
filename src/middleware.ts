@@ -8,28 +8,12 @@ interface RedirectProps {
 
 const redirects: RedirectProps[] = [
   {
-    from: "elmecsata.hu",
-    to: "https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions"
-  },
-  {
-    from: "discord.talprafiatalok.hu",
-    to: "https://discord.gg/YjBkzgCZtx",
-  },
-  {
     from: "hazetomika.hu",
     to: "https://open.spotify.com/artist/6ReXV4uF5wOP9sVFsHi5oX",
   },
   {
     from: "grasa.hu",
     to: "https://withloveforlove.hu",
-  },
-  {
-    from: "anarchyv.hu",
-    to: "https://github.com/RisDN",
-  },
-  {
-    from: "fotoson.hu",
-    to: "https://github.com/RisDN",
   },
   {
     from: "ibbigang.hu",
@@ -47,10 +31,10 @@ const redirects: RedirectProps[] = [
     from: "rstris.hu",
     to: "https://github.com/RisDN",
   },
-  {
-    from: "trendybaby.hu",
-    to: "https://github.com/RisDN",
-  },
+    {
+    from: "golyak.hu",
+    to: "https://okereso.hu",
+  }
 ];
 
 export function middleware(request: NextRequest) {
