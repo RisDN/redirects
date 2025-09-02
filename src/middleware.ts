@@ -29,7 +29,7 @@ const redirects: RedirectProps[] = [
   },
   {
     from: "rstris.hu",
-    to: "https://github.com/RisDN",
+    to: "https://www.linkedin.com/in/rostas-andras/",
   },
     {
     from: "golyak.hu",
