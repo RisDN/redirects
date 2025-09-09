@@ -17,23 +17,27 @@ const redirects: RedirectProps[] = [
   },
   {
     from: "ibbigang.hu",
-    to: "https://github.com/RisDN",
+    to: "https://www.linkedin.com/in/rostas-andras/",
   },
   {
     from: "meluin.hu",
-    to: "https://github.com/RisDN",
+    to: "https://www.linkedin.com/in/rostas-andras/",
   },
   {
     from: "mihalyfiluca.hu",
-    to: "https://github.com/RisDN",
+    to: "https://www.linkedin.com/in/rostas-andras/",
   },
   {
     from: "rstris.hu",
     to: "https://www.linkedin.com/in/rostas-andras/",
   },
-    {
+  {
     from: "golyak.hu",
     to: "https://okereso.hu",
+  },
+  {
+    from: "quantifiedmc.com",
+    to: "https://github.com/RisDN",
   }
 ];
 
